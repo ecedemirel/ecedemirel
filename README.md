@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Proactive, fast learner, and ambitious with a Bachelor's degree in Computer engineering from Atılım University (GPA 3.77). Experienced in backend and frontend software development, testing, debugging, and interface design with different projects. Proficient in C#, JavaScript, C++, Python, HTML, and SQL. Skilled in .Net Framework, EF Core, React, Vue, Docker, unit testing, Agile methodology, Azure DevOps, and GitLab. Personable team player with a strong interest in new technologies. Seeking opportunities to utilize my software and hardware skills in dynamic projects and contribute to the entire software development cycle.
+
 <!--
 **ecedemirel/ecedemirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
