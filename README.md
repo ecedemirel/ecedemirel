@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Proactive, fast learner, and ambitious with a Bachelor's degree in Computer engineering. Experienced in backend and frontend software development, testing, debugging, and interface design with different projects. Proficient in C#, JavaScript, C++, Python, HTML, and SQL. Skilled in .Net Framework, EF Core, React, Vue, Docker, unit testing, Agile methodology, and Azure DevOps. Personable team player with a strong interest in new technologies. Seeking opportunities to utilize my software and hardware skills in dynamic projects and contribute to the entire software development cycle. 💻
+Proactive, fast learner, and ambitious with a Bachelor's degree in Computer engineering. Experienced in backend and frontend software development, testing, debugging, and interface design with different projects. Proficient in JavaScript, Typescript, C#, C++, C, Python, HTML, and SQL. Skilled in .Net Core, EF Core, React, Vue, Docker, unit testing with JUnit and xUnit, Agile methodology, Azure DevOps, and AWS. Personable team player with a strong interest in new technologies. Seeking opportunities to utilize my software and hardware skills in dynamic projects and contribute to the entire software development cycle. 💻
 
 <!--
 ## Skills
