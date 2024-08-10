@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Proactive, fast learner, and ambitious with a Bachelor's degree in Computer engineering. Experienced in backend and frontend software development, testing, debugging, and interface design with different projects. Proficient in C#, JavaScript, C++, Python, HTML, and SQL. Skilled in .Net Framework, EF Core, React, Vue, Docker, unit testing, Agile methodology, and Azure DevOps. Personable team player with a strong interest in new technologies. Seeking opportunities to utilize my software and hardware skills in dynamic projects and contribute to the entire software development cycle.
+Proactive, fast learner, and ambitious with a Bachelor's degree in Computer engineering. Experienced in backend and frontend software development, testing, debugging, and interface design with different projects. Proficient in C#, JavaScript, C++, Python, HTML, and SQL. Skilled in .Net Framework, EF Core, React, Vue, Docker, unit testing, Agile methodology, and Azure DevOps. Personable team player with a strong interest in new technologies. Seeking opportunities to utilize my software and hardware skills in dynamic projects and contribute to the entire software development cycle. 💻
 
+<!--
 ## Skills
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
@@ -17,7 +18,7 @@ Proactive, fast learner, and ambitious with a Bachelor's degree in Computer engi
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
+-->
 
 <!--
 **ecedemirel/ecedemirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
